@@ -1,6 +1,7 @@
 import React from "react"
 import {
   AiOutlineGithub,
+  AiOutlineInstagram,
   AiOutlineTwitter,
   AiOutlineLinkedin,
   AiOutlineYoutube,
@@ -31,6 +32,11 @@ const Footer = () => {
               size={30}
             />
           </a>
+          
+          <AiOutlineInstagram
+              className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100"
+              size={30}
+            />
 
           <a
             href="https://www.linkedin.com/in/hosnaqasmei/"
