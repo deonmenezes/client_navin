@@ -10,23 +10,23 @@ const projects = [
     description:
       "The GlobeOx Plant -floor is spread over 6000 sq. ft. covered area including good mechanical workshop with well-equipped machineries, like TIG Argon Arc welding(several numbers), Silver Brazing, Pressure testing, DPT, Electro-polishing, Testing equipment like Helium Leak, Detector, Vacuum unit etc. We have young experienced team of people to execute the job in the field. Shanti Industries is reputed for manufacture of spares for air separation units . It also engages in Erection & commissioning of oxygen plants. The company has the following list of equipment and machinery to cater to wide range of customers and ensuring timely delivery with best of the quality of the finished product.",
     image: "/og.jpg",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+    github: "",
+    link: "",
   },
   {
     name: "Manufacture and Distribution of Plant Spares",
     description: "GlobeOx also works in the manufacturing & distribution of all types of spares of Oxygen, D.A & Nitrous Oxide plants.Manufacture & export of all types of spares for Oxygen gas plant, Acetylene & Nitro Oxide plant to M/S Shanghi Organisation, M/S Sanghi Gases Pvt.Ltd, KVK Corporation all over India, African countries & the Middle East.GlobeOx is a SSI registered corporation which is involved in maintenance of cryogenic storage and transport equipment, Oxygen and Nitrogen Gas plant. The organization is well known name in manufacturing spare parts for air separation unit and perforated metal sheet. Presently the reigns of the company are under the dynamic proprietorship of Mr. Navin Monteiro. With his multifaceted creative vision ,he has taken the company to greater heights. Mr.Navin is a Mechanical Engineer by education and able administrator.",
     image: "/mech.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    github: "",
+    link: "",
   },
   {
     name: "Cryogenic Storage and Transport",
     description:
       "Every Year approximately 500 new Cryogenic liquid storage and transport tanks are introduced into the mainstream use. But the old ones need refurbishment on regular basis. With this far- sightedness in mind, the enterprises have ventured into this new line of business. The establishment has taken a foot forward to provide spare parts and accessories required for Cryogenic liquid storage vessels. The necessary setup is at Mankoli, situated on Nashik Highway, on the outskirts of Thane district. The company has all the required machinery, expertise and manpower for delivering the best service. For those on-site operations, the company delivers the goods with a well-equipped mobile service van to offer on-site maintenance.",
     image: "/cr.jpg",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+    github: "",
+    link: "",
   },
 ]
 
