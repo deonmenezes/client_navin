@@ -15,7 +15,7 @@ import {
 const HeroSection = () => {
   return (
     <section id="home">
-      <div className="flex flex-col text-center items-center justify-center animate-fadeIn animation-delay-2 my-2 py-6 sm:py-12 md:py-20 md:flex-row md:space-x-4 md:text-left">
+      <div className="flex flex-col text-center items-center justify-center animate-fadeIn animation-delay-2 mt-16 my-2 py-6 sm:py-12 md:py-20 md:flex-row md:space-x-4 md:text-left">
 
         <div className="md:mt-2 md:w-1/2">
           <Image
@@ -33,7 +33,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               GlobeOx,{" "}
             </span>
-            an SSI registered corporation which is involved in maintenance of cryogenic storage and transport equipment, Oxygen and Nitrogen Gas plant. 
+            an SSI registered corporation which is involved in maintenance of cryogenic storage and transport equipment, Oxygen and Nitrogen Gas plant. I'm a Mechanical Engineer by Education and an able Administrator. 
           </p>
           <Link
             to="projects"
@@ -50,17 +50,17 @@ const HeroSection = () => {
       </div>
       <div className="mx-auto  p-4 flex flex-col text-center text-neutral-900 md:flex-row md:justify-between">
         <div className="flex flex-row items-center justify-center space-x-1 text-neutral-500 dark:text-neutral-100">
-          © 2025 Navin Monteiro<a href="/" className="hover:underline"></a>
+          © 2025 NAVIN MONTEIRO<a href="/" className="hover:underline"></a>
         </div>
         <div className="flex flex-row items-center justify-center space-x-2 mb-1">
-          <a href="https://github.com/hqasmei" rel="noreferrer" target="_blank">
+          <a href="" rel="noreferrer" target="_blank">
             <AiOutlineGithub
               className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100"
               size={30}
             />
           </a>
           <a
-            href="https://twitter.com/hqasmei"
+            href=""
             rel="noreferrer"
             target="_blank"
           >
@@ -71,7 +71,7 @@ const HeroSection = () => {
           </a>
           
           <a
-            href="https://twitter.com/hqasmei"
+            href=""
             rel="noreferrer"
             target="_blank"
           > 
@@ -82,7 +82,7 @@ const HeroSection = () => {
           </a>
           
           <a
-            href="https://twitter.com/hqasmei"
+            href=""
             rel="noreferrer"
             target="_blank"
           >
@@ -91,9 +91,9 @@ const HeroSection = () => {
               size={30}
             />  
           </a>
-          
+
           <a
-            href="https://www.linkedin.com/in/hosnaqasmei/"
+            href=""
             rel="noreferrer"
             target="_blank"
           >
@@ -103,7 +103,7 @@ const HeroSection = () => {
             />
           </a>
           <a
-            href="https://www.youtube.com/channel/UCQBMkSDgbxDb8usMeXmOZyA"
+            href=""
             rel="noreferrer"
             target="_blank"
           >
