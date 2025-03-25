@@ -33,7 +33,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               GlobeOx,{" "}
             </span>
-            an SSI registered corporation which is involved in maintenance of cryogenic storage and transport equipment, Oxygen and Nitrogen Gas plant. I'm a Mechanical Engineer by Education and an able Administrator. 
+            an SSI registered corporation which is involved in maintenance of cryogenic storage and transport equipment, Oxygen and Nitrogen Gas plant. I&#39;m a Mechanical Engineer by Education and an able Administrator. 
           </p>
           <Link
             to="projects"
